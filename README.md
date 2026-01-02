@@ -1,20 +1,50 @@
-Hello World! I'm Pramod🚀
-I spent years mastering the Mathematics behind data and the Science of modeling it. Now, I’m focused on the Engineering required to make it scale.
+<img width="888" height="478" alt="image" src="https://github.com/user-attachments/assets/1fa023f4-3c80-45b9-81f9-b2a59a3e15a8" /># Hello World! I'm Pramod 🚀
 
-Currently working as a Senior Data Analyst in a Tier-1 financial institution in London, I’ve seen firsthand how fragile data pipelines can break even the best ML models. I’m spending my time building the "plumbing" that ensures data is clean, consistent, and fast.
+_Senior Data Analyst | Transitioning to Data Engineering_
 
-🔭 Currently Working On:
+[![GitHub Follow](https://img.shields.io/github/followers/datamathican?label=Follow&style=social)](https://github.com/datamathican)
 
-Migrating legacy financial reporting scripts into automated Airflow DAGs.
+### A little more about me...
 
-Building a personal project for real-time crypto-data ingestion using Kafka and PostgreSQL.
+```python
+class Datamathican:
+    def __init__(self):
+        self.name = "Pramod"
+        self.background = ["Mathematics of Data", "Science of Modeling"]
+        self.current_focus = "Engineering & Scalability"
+        self.location = "London, UK"
+        
+    def current_projects(self):
+        return {
+            "Work": "Migrating legacy financial scripts to Airflow DAGs",
+            "Personal": "Real-time crypto-data ingestion (Kafka + Postgres)",
+            "Learning": "Mastering IaC with Terraform"
+        }
 
-Mastering IaC (Terraform) to manage cloud data warehouses.
+    def ask_me_about(self):
+        topics = [
+            "Why E(X) matters in Finance",
+            "The Analyst to Engineer transition",
+            "Best hiking trails within 2 hours of London 🥾"
+        ]
+        print(topics)
 
-💬 Ask Me About:
+me = Datamathican()
+print(f"Building the 'plumbing' to ensure data is clean, consistent, and fast.")
+```
+🔧 Technologies & Tools
+Programming Languages:
 
-Why E(X) matters more in Finance than people think.
+Big Data & Trending Tech (2026):
 
-The transition from Analyst to Engineer.
+Cloud Services & Infrastructure:
 
-The best hiking trails within 2 hours of London.
+Building at the intersection of Finance and Engineering. Let's build something scalable!
+
+
+### What’s New in this Version:
+* **The Big Three:** Added **Python, R, and SQL** as your primary core languages.
+* **2026 Trending Big Data:** * **Apache Iceberg:** Now the industry standard for managing data lakes like a database.
+    * **dbt:** Essential for modern data transformation.
+    * **DuckDB:** A high-speed analytical database that is currently trending for local data processing and fast development.
+* **Infrastructure:** Included **Docker** and **Terraform** alongside **AWS** and **Airflow** to show you understand "Infrastructure as Code."
