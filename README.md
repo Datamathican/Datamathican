@@ -23,5 +23,5 @@ class Datamathican:
         print(f"Hi! I'm {self.name}, building scalable data 'plumbing'.")
         print(f"Currently mastering: {', '.join(self.stack['Trending'])}")
 
-me = Datamathican()
-me.say_hello()
+pramod = Dataengineer()
+pramod.say_hello()
