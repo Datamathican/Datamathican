@@ -1,3 +1,8 @@
+# Hello World! I'm Pramod 👋
+
+_Senior Data Analyst | Transitioning to Data Engineering_
+
+[![GitHub Follow](https://img.shields.io/github/followers/datamathican?label=Follow&style=social)](https://github.com/datamathican)
 
 ### A little more about me...
 
@@ -5,24 +10,18 @@
 class Datamathican:
     def __init__(self):
         self.name = "Pramod"
-        self.background = ["Mathematics of Data", "Science of Modeling"]
-        self.current_focus = "Engineering & Scalability"
+        self.role = "Data Engineer in Training"
         self.location = "London, UK"
-        
-    def current_projects(self):
-        return {
-            "Work": "Migrating legacy financial scripts to Airflow DAGs",
-            "Personal": "Real-time crypto-data ingestion (Kafka + Postgres)",
-            "Learning": "Mastering IaC with Terraform"
+        self.languages = ["Python", "SQL", "R"]
+        self.stack = {
+            "Cloud": ["AWS", "Docker"],
+            "Orchestration": ["Airflow", "Dagster"],
+            "Trending": ["Apache Iceberg", "dbt", "DuckDB"]
         }
 
-    def ask_me_about(self):
-        topics = [
-            "Why E(X) matters in Finance",
-            "The Analyst to Engineer transition",
-            "Best hiking trails within 2 hours of London 🥾"
-        ]
-        print(topics)
+    def say_hello(self):
+        print(f"Hi! I'm {self.name}, building scalable data 'plumbing'.")
+        print(f"Currently mastering: {', '.join(self.stack['Trending'])}")
 
 me = Datamathican()
-print(f"Building the 'plumbing' to ensure data is clean, consistent, and fast.")
+me.say_hello()
