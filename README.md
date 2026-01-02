@@ -1,4 +1,4 @@
-# Hello World! I'm Pramod 👋
+# Hello! I'm Pramod 👋
 
 _Senior Data Analyst | Transitioning to Data Engineering_
 
