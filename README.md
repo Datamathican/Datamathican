@@ -1,8 +1,3 @@
-<img width="888" height="478" alt="image" src="https://github.com/user-attachments/assets/1fa023f4-3c80-45b9-81f9-b2a59a3e15a8" /># Hello World! I'm Pramod 🚀
-
-_Senior Data Analyst | Transitioning to Data Engineering_
-
-[![GitHub Follow](https://img.shields.io/github/followers/datamathican?label=Follow&style=social)](https://github.com/datamathican)
 
 ### A little more about me...
 
@@ -31,20 +26,3 @@ class Datamathican:
 
 me = Datamathican()
 print(f"Building the 'plumbing' to ensure data is clean, consistent, and fast.")
-```
-🔧 Technologies & Tools
-Programming Languages:
-
-Big Data & Trending Tech (2026):
-
-Cloud Services & Infrastructure:
-
-Building at the intersection of Finance and Engineering. Let's build something scalable!
-
-
-### What’s New in this Version:
-* **The Big Three:** Added **Python, R, and SQL** as your primary core languages.
-* **2026 Trending Big Data:** * **Apache Iceberg:** Now the industry standard for managing data lakes like a database.
-    * **dbt:** Essential for modern data transformation.
-    * **DuckDB:** A high-speed analytical database that is currently trending for local data processing and fast development.
-* **Infrastructure:** Included **Docker** and **Terraform** alongside **AWS** and **Airflow** to show you understand "Infrastructure as Code."
